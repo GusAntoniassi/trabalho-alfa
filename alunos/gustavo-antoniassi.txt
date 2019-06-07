@@ -1,0 +1,1 @@
+docker push gusantoniassi/trabalho-git-composer:latest
